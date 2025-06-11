@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my profile!
 
+I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enjoy bringing creative ideas into reality, and what better way to be a master at that than learning programming. My technical skills include HTML, CSS, JavaScript, Java, C++, C#, and I am currently delving into CSS frameworks.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhilaMkhungeki)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PhilaMkhungeki/PhilaMkhungeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

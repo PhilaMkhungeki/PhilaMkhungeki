@@ -14,9 +14,10 @@ I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enj
 </div>
 
 <h2>Tools</h2>
-<img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vscode" width="50px"></img>
-<img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="50px"></img>
-
+<div style="display:flex;">
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vscode" width="50px"></img>
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="50px"></img>
+</div>
 <h2>Currently learning</h2>
 <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwindcss" width="80px"></img>
 

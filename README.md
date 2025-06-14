@@ -24,6 +24,11 @@ I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enj
 <h2>Socials</h2>
 <img src="https://devicon-website.vercel.app/api/github/original.svg" alt="github" width="50px"></img>
 
+<h2>Contact information</h2>
+<ul>
+  <li>email: qlpmkhungeko899@gmail.com</li>
+</ul>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhilaMkhungeki)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for visiting my profile!

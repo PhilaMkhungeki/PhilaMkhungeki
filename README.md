@@ -20,7 +20,7 @@ I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enj
   <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="50px"></img>
 </div>
 <h2>Currently learning</h2>
-<img src="https://devicon-website.vercel.app/api/react/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/react/original.svg" alt="react" width="50px"></img>
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="50px"></img>
 
 <h2>Socials</h2>

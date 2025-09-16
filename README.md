@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my profile!
 
-I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enjoy bringing creative ideas into reality, and what better way to be a master at that than learning programming. I am currenlty learning CSS frameworks and javascript and I am especially interested in seeing myself mastering front-end developmnent. I am currently focusing on strengthening my skills and building real-world projects to grow my portfolio.
+I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enjoy bringing creative ideas into reality, and what better way to be a master at that than learning programming. I am currently learning CSS frameworks and javascript and I am especially interested in seeing myself mastering front-end developmnent. I am currently focusing on strengthening my skills and building real-world projects to grow my portfolio.
 
 <h2>My Skills</h2>
 <div style="display:flex;">
@@ -11,6 +11,7 @@ I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enj
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="html" width="50px"></img>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="css" width="50px"></img>
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="c++" width="50px"></img>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwindcss" width="80px"></img>
 </div>
 
 <h2>Tools</h2>
@@ -19,7 +20,7 @@ I am Phila Mkhungeki, a software development student at CodeSpace Academy. I enj
   <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="50px"></img>
 </div>
 <h2>Currently learning</h2>
-<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwindcss" width="80px"></img>
+<img src="https://devicon-website.vercel.app/api/react/original.svg"></img>
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="50px"></img>
 
 <h2>Socials</h2>

@@ -21,7 +21,7 @@ I am Phila Mkhungeki, an aspiring software developer. I enjoy bringing creative 
   <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="50px"></img>
 </div>
 <h2>Currently learning</h2>
-<img src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="typescript" width="50px"></img>
 
 <h2>Socials</h2>
 <img src="https://devicon-website.vercel.app/api/github/original.svg" alt="github" width="50px"></img>
